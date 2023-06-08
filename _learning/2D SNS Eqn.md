@@ -4,7 +4,7 @@ collection: learning
 type: "Seminar"
 permalink: /learning/2D SNS Eqn
 venue: ""
-date: ""
+date: 2023
 location: ""
 ---
 
