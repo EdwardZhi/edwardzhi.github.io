@@ -1,10 +1,10 @@
 ---
 title: "Two-Dimensional Stochastic Navier-Stokes Equations"
 collection: learning
-type: "Learning"
+type: "Seminar"
 permalink: /learning/2D SNS Eqn
 venue: ""
-date: 
+date: ""
 location: ""
 ---
 
