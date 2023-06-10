@@ -4,7 +4,7 @@ collection: learning
 type: "Seminar"
 permalink: /learning/2D%20SNS%20Eqn
 venue: "Durham University"
-date: 2023
+date: 2023-06-01
 location: "Durham, UK"
 ---
 
