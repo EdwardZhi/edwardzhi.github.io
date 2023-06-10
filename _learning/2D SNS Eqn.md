@@ -3,6 +3,9 @@ title: "Two-Dimensional Stochastic Navier-Stokes Equations"
 collection: learning
 type: "Seminar"
 permalink: /learning/2D%20SNS%20Eqn
+venue: "Durham University"
+date: 2023
+location: "Durham, UK"
 ---
 
 [Notes](http://edwardzhi.github.io/files/2D%20SNS%20Eqn.pdf) & [Recording](https://space.bilibili.com/330668554/channel/collectiondetail?sid=1106870)<br>
